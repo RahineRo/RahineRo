@@ -7,10 +7,10 @@
 - Our IT hub in **Madrid** is the beating heart of projects powered by cutting-edge **Azure Cloud** solutions.
 
 💻 **Tech Stack we love**:
-- Frontend: **Angular 15+***,**React** 🌐  
-- Backend: **.NET Core**,**SQL Server**,**MongoDB & Redis** ⚙️  
-- Infrastructure: **Azure Cloud**,***Terraform**,**CI/CD Pipelines** ☁  
-- Aditional Dev Tools: **Docker**,**Kubernetes**,**Testing Frameworks**,**Git** ⛓️  
+- Frontend: **Angular 15+***, **React** 🌐  
+- Backend: **.NET Core**, **SQL Server**, **MongoDB & Redis** ⚙️  
+- Infrastructure: **Azure Cloud**, **Terraform**, **CI/CD Pipelines** ☁  
+- Aditional Dev Tools: **Docker**, **Kubernetes**, **Testing Frameworks**, **Git** ⛓️  
 
 💬 **Want to know more?**  
 Check out our [careers page](careers.axpo.com) or drop me a message here. Let’s geek out over the amazing things we’re building together.  
