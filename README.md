@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-👩‍💻 I'm [Rahine], a **talent Sourcer** with a passion for connecting brilliant minds with amazing opportunities at **Axpo Group**! 
+👩‍💻 I'm [Rahine], a **Talent Sourcer** with a passion for connecting brilliant minds with amazing opportunities at **Axpo Group**! 
 
 🚀 **What we do at Axpo**:
 - We are shaping the future of **renewable energy** and technology innovation.
